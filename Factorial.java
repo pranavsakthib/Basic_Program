@@ -10,6 +10,7 @@ public class Factorial {
         return res;
     }
 
+    // Main Method
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
